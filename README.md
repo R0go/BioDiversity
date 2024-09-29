@@ -15,7 +15,7 @@ The project will address the following questions:</br>
 Language:</br>
 Python</br>
 
-Librarie used:</br>
+Libraries used:</br>
 pandas, matplotlib, seaborn, scip, itertools</br>
 </br>
 
